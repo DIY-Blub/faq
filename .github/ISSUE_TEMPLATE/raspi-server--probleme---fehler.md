@@ -1,6 +1,6 @@
 ---
 name: 'RasPi-Server: Probleme & Fehler'
-about: Welcher Fehler und wo ist der Fehler aufgetreten.
+about: Probleme bei der Konfiguration vom RasPi-Server.
 title: ''
 labels: problem
 assignees: ''
