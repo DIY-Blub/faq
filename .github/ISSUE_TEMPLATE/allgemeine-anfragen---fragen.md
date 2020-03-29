@@ -1,6 +1,6 @@
 ---
 name: Allgemeine Anfragen & Fragen
-about: Beschreibe dein Anliegen.
+about: "(zu Grundlagen, Lektüre, Konsolenbefehle, usw.)"
 title: ''
 labels: question
 assignees: ''
